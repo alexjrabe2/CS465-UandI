@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#13294B"
+    android:text="Illini"
+    android:textColor="#E84A27"
+    android:textSize="28sp"
+    android:textStyle="bold"
+    android:gravity="center"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp" />
